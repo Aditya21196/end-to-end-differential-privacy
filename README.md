@@ -7,4 +7,4 @@ Plan:
 1. Use genetic algorithms to implement better budget allocation.
 2. Support more kinds of queries.
 3. Integrate with existing DP libraries so as to implement more differential privacy mechanisms.
-4. Add alogirthms which optimize total percentage error of all queries.
+4. Add algorithms which optimize total percentage error of all queries using RL or differential equations.
